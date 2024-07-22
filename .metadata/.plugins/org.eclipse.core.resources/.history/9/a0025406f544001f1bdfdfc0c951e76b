@@ -1,0 +1,5 @@
+package com.sai.security.user;
+
+public class User {
+
+}
